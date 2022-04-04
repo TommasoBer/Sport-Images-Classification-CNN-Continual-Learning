@@ -1,7 +1,7 @@
 # Sport-Images-Classification-CNN-Continual-Learning
 In the framework of Continual Learning, I developed a CNN able to classify 99 different sport images.
 
-Topics: Neural Networks
+Topics: Neural Networks, Computer Vision
 
 Libraries: Tensorflow-keras
 
