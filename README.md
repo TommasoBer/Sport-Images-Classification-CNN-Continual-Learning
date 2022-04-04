@@ -5,6 +5,8 @@ Topics: Neural Networks
 
 Libraries: Tensorflow-keras
 
+The project has been developed in the context of 'Neural Netwoks for Data Science' course held by prof. Simone Scardapane @SapienzaUniversity of Rome.
+
 **********************
 
 ### Get data to analyze
