@@ -5,7 +5,7 @@ Topics: Neural Networks, Computer Vision
 
 Libraries: Tensorflow-keras
 
-The project has been developed in the context of 'Neural Netwoks for Data Science' course held by prof. Simone Scardapane @SapienzaUniversity of Rome.
+The project has been developed in the context of 'Neural Networks for Data Science' course held by prof. Simone Scardapane @SapienzaUniversity of Rome.
 
 **********************
 
